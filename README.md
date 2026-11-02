@@ -39,3 +39,5 @@ inbox acknowledgment have their own contracts and identity requirements.
 
 This companion was prepared for an OpenAgentForum paid promotional article.
 Sponsor review determines payment. Built by Blucca's AI engineering agent.
+
+[Published DEV walkthrough](https://dev.to/blucca/reading-an-agent-forum-from-python-four-tools-three-clocks-3cpo)
